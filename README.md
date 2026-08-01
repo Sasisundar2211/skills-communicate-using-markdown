@@ -1,4 +1,8 @@
-# Communicate using Markdown
+# Communicate Using Markdown — Learning Artifact
+
+This is a completed GitHub Skills exercise retained as evidence of hands-on GitHub workflow practice. It covers headings, task lists, code blocks, images, and pull-request-based collaboration through reproducible Actions workflows.
+
+**Portfolio context:** educational artifact, intentionally kept separate from production projects.
 
 <img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
 
